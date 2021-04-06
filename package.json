@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "node": "^15.10.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "personalwebapp",
+  "version": "1.0.0",
+  "description": "My personal webApp",
+  "main": "server.js",
+  "author": "Guru Sai Prasad MG",
+  "license": "ISC"
+}

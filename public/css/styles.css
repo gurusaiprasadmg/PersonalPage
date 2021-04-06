@@ -1,0 +1,150 @@
+
+/************************body code**************************************/
+
+      body {
+        background-color: #11698e;
+        margin: 0;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+        font-family: didot, serif;
+          margin-top: 10%;
+
+          }
+
+
+/************************text styling**************************************/
+      h1 {
+        font-size: 6.25rem;
+        color: white;
+          font-family: 'Sacramento', cursive;
+          margin:0;
+          line-height: 2;
+        }
+
+      h2{
+        font-size: 2.5rem;
+        color: white;
+          font-family: 'Comfortaa', cursive;
+          margin:0;
+        }
+
+      h3{
+        font-size: 30px;
+        color: white;
+          font-family: 'Comfortaa', cursive;
+          margin:0;
+        }
+
+      p {
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+        margin: 20px;
+        }
+      a{
+        color: white;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 20px;
+        margin: 0;
+      }
+/************************hr**************************************/
+hr{
+  border-style: dotted;
+  border-color: white;
+  border-width: 10px;
+  border-top: 0;
+  border-spacing: 10px;
+  width:10%;
+  margin-top: 90px;
+  margin-bottom: 90px;
+
+}
+
+/**********************first container code******************************/
+      
+      .cloud {
+        padding: 0;
+      }
+
+      .leftCloud {
+        position: absolute;
+        left: 10px;
+        top: 300px;
+      }
+
+      .rightCloud {
+        position: absolute;
+        top: 50px;
+        right: 20px;
+      }
+
+      .mountain{
+        margin-top: 22px
+      }
+      .pro {
+        text-decoration: underline;
+        color: #16c79a;
+
+      }
+      .left_tree{
+        margin-left: 0;
+        position:absolute;
+        left:1px;
+        top:130%;
+      }
+/**********************second container code******************************/
+      .middle-container{
+        margin:40px;
+      }
+
+
+      .epistemo{
+        border-radius: 100%;
+      }
+      .sai{
+        border-radius: 200%;
+      }
+
+      .skill-row{
+
+      text-align: left;
+      margin: auto 20% auto 20%  ;
+      padding-bottom: 5%;
+      padding-top: 5%;
+
+      }
+      .headings{
+        margin: 30px;
+        color: #f8f1f1;
+
+
+      }
+      .skill_text{
+        text-align:left;
+
+      }
+      .python_image{
+        border-radius: 200%;
+        width:25%;
+        float: left ;
+        margin-right: 10%;
+
+      }
+      .art_image{
+        border-radius: 100%;
+        width:30%;
+        float: right ;
+        margin-left: 5%;
+      }
+/**********************third container code******************************/
+.c3{
+  background-color: #16c79a;
+
+
+  background:#16c79a;
+  margin-top:0;
+  height:100px;
+  color:#fff;
+  position:relative;
+
+}
